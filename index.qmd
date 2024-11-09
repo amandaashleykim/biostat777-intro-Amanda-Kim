@@ -1,0 +1,17 @@
+---
+title: "Amanda Kim"
+title-align: center
+format: html
+image: Photo.jpg
+toc: false
+about: 
+  template: broadside
+---
+
+Welcome to my page!
+
+I'm Amanda Kim, and I'm a doctoral student at the Johns Hopkins Bloomberg School of Public Health studying psychiatric epidemiology in the Department of Mental Health.
+
+I was born and raised in California and recently moved to Baltimore, MD in 2021. My favorite thing about moving to this end of the coast is being able to experience all 4 seasons of the year.
+
+## I am brand new to coding and the art of data science. But feel free to get to know me more through X and LinkedIn (located at the top navigation bar).

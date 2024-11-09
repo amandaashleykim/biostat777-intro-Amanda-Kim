@@ -1,0 +1,32 @@
+---
+title: "About"
+format: html
+---
+
+## [🙋🏻‍♀️ About Me]{.underline}
+
+My name is Amanda Kim, and I'm a second-year doctoral student at Johns Hopkins Bloomberg School of Public Health in the Department of Mental Health. I am a psychiatric epidemiologist in training under the NIH T32 Psychiatric Epidemiology training grant, studying the co-occurrence of autism spectrum disorder and eating disorders/disordered eating behaviors.
+
+Outside of school, I love to find new hobbies! Some of my new hobbies include 🥁 drums and 🚣🏻‍♂️ rowing with the Baltimore City Row Club. I also have a teaching certificate for Pilates and love to focus on body rehabilitation through breath work on the mat and strength and mobility training on the reformer.
+
+## [🎓 Education]{.underline}
+
+**Johns Hopkins Bloomberg School of Public Health** \| Baltimore, MD
+
+-PhD in Psychiatric Epidemiology (2023-Expected 2027)
+
+-MHS in Public Mental Health (2022)
+
+**Florida Institute of Technology** \| Melbourne, FL
+
+-MA in Applied Behavior Analysis (2016)
+
+**University of California, Merced** \| Merced, CA
+
+-BA in Psychology (2013)
+
+## [📝 Publications]{.underline}
+
+1.  **Kim, A.A.**, Holingue, C. Co-occurring Autism Spectrum Disorder (ASD) and Eating Disorders (ED): Understanding the Heterogeneity of Study Populations. Rev J Autism Dev Disord (2024). <https://doi.org/10.1007/s40489-024-00466-x> 
+
+2.  **Kim, A.**, Zisman, C.R., Holingue, C. (2022). Influences of the Immune System and Microbiome on the Etiology of ASD and GI Symptomology of Autistic Individuals. In: Savitz, J., Yolken, R.H. (eds) Microorganisms and Mental Health. Current Topics in Behavioral Neurosciences, vol 61. Springer, Cham. <https://doi.org/10.1007/7854_2022_371> 

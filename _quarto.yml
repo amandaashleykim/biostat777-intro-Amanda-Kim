@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Amanda Kim"
+  image: Photo.jpg 
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: example_analysis.qmd
+        text: Example Analysis
+    tools:
+    - icon: twitter
+      text: X
+      href: https://x.com/amandaashleykim
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/amandaashleykim/
+    - icon: chat-dots
+      href: mailto:akim148@jh.edu 
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+
